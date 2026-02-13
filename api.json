@@ -1,15 +1,126 @@
 {
-  "id": "enfield-horror",
-  "name": "Enfield Horror",
-  "category": "CRYPTID",
-  "subcategory": "Entity",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14",
-  "status": "documented",
-  "has_readme": true,
-  "has_sources": true,
-  "has_media": false,
-  "has_sightings": false,
-  "source_count": "50+",
-  "documentation_quality": "comprehensive"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/enfield-horror",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "enfield-horror",
+    "name": "Enfield Horror",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "reports or known animal misidentifications. Some researchers have classified it alongside other \\\"high strangeness\\\" entities like the Flatwoods Monster or Hopkinsville Goblins.",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **Enfield Horror** is a cryptid creature reported from Enfield, Illinois, during a concentrated series of sightings in April and May 1973.",
+      "full": "The **Enfield Horror** is a cryptid creature reported from Enfield, Illinois, during a concentrated series of sightings in April and May 1973. Described as a bizarre three-legged entity with short, gray, slimy skin, pink eyes, and no visible arms, the Enfield Horror represents one of the most unusual cryptid descriptions in American cryptozoology. Standing approximately 4 to 5 feet tall, the creature terrorized residents of this small southern Illinois town through direct encounters, property disturbances, and its distinctly alien appearance. The primary incidents occurred at the home of Henry McDaniel on April 25, 1973, when he encountered the creature multiple times in one evening. McDaniel, a respected member of the community, reported shooting at the entity with a pistol before it fled with unusual three-legged hopping movements. The subsequent investigation by local police and the wave of copycat sightings that followed made the Enfield Horror a significant event in 1970s American cryptozoology. What distinguishes the Enfield Horror from other cryptids is its utterly non-standard appearance: three legs, no arms, grayish slimy skin, and bizarre locomotion create a creature unlike typical Bigfoot-type reports or known animal misidentifications. Some researchers have classified it alongside other \\\"high strangeness\\\" entities like the Flatwoods Monster or Hopkinsville Goblins."
+    },
+    "etymology": {
+      "origin": "American (Illinois), 1973",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "reports or known animal misidentifications. Some researchers have classified it alongside other \\\"high strangeness\\\" entities like the Flatwoods Monster or Hopkinsville Goblins.",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "American (Illinois), 1973",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "American (Illinois), 1973",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
