@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/enfield-horror",
     "maintainers": [
       {
@@ -16,111 +16,329 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "enfield-horror",
     "name": "Enfield Horror",
-    "aliases": [],
-    "category": "CRYPTID",
-    "subcategory": "reports or known animal misidentifications. Some researchers have classified it alongside other \\\"high strangeness\\\" entities like the Flatwoods Monster or Hopkinsville Goblins.",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Enfield Monster", "region": "Illinois, USA" }
     ],
-    "status": "documented",
+    "category": "CRYPTID",
+    "subcategory": "Three-legged humanoid cryptid",
+    "tags": [
+      "cryptid",
+      "illinois",
+      "1973",
+      "high-strangeness",
+      "single-incident",
+      "mass-panic",
+      "midwest"
+    ],
+    "status": "historical",
     "description": {
-      "summary": "The **Enfield Horror** is a cryptid creature reported from Enfield, Illinois, during a concentrated series of sightings in April and May 1973.",
-      "full": "The **Enfield Horror** is a cryptid creature reported from Enfield, Illinois, during a concentrated series of sightings in April and May 1973. Described as a bizarre three-legged entity with short, gray, slimy skin, pink eyes, and no visible arms, the Enfield Horror represents one of the most unusual cryptid descriptions in American cryptozoology. Standing approximately 4 to 5 feet tall, the creature terrorized residents of this small southern Illinois town through direct encounters, property disturbances, and its distinctly alien appearance. The primary incidents occurred at the home of Henry McDaniel on April 25, 1973, when he encountered the creature multiple times in one evening. McDaniel, a respected member of the community, reported shooting at the entity with a pistol before it fled with unusual three-legged hopping movements. The subsequent investigation by local police and the wave of copycat sightings that followed made the Enfield Horror a significant event in 1970s American cryptozoology. What distinguishes the Enfield Horror from other cryptids is its utterly non-standard appearance: three legs, no arms, grayish slimy skin, and bizarre locomotion create a creature unlike typical Bigfoot-type reports or known animal misidentifications. Some researchers have classified it alongside other \\\"high strangeness\\\" entities like the Flatwoods Monster or Hopkinsville Goblins."
+      "summary": "An unidentified creature reported in and around Enfield, Illinois during a brief sighting cluster in late April and early May 1973, described as a roughly four-and-a-half-foot-tall, gray, three-legged entity with two short arms and pink eyes.",
+      "full": "The Enfield Horror (also Enfield Monster) is an unidentified creature reported in Enfield, Illinois, in April and May 1973. The principal witness, Henry McDaniel, reported being scratched at and confronted by an entity at his home about 10 PM on April 25, 1973: he described a creature about four and a half feet tall, gray-coloured, with three legs, a short body, two short arms, and pink eyes 'as big as flashlights'. McDaniel fired four shots at the creature with a pistol; it hissed (compared to a wildcat) and fled across the yard in long bounding leaps. A reported earlier encounter the same night by 10-year-old Greg Garrett was later admitted by the boy to Western Illinois University researchers to have been a hoax. McDaniel reported a second encounter near the railroad on May 6, 1973, and a search party led by WWKI radio's Rick Rainbow reported seeing and recording a similar 'apelike' creature in an abandoned building. Police investigators noted dog-like footprints with six toe pads in the soft earth and described McDaniel as rational and sober. White County Sheriff Roy Poshard Jr. publicly threatened to arrest McDaniel for continuing to discuss the creature. Five out-of-town men who arrived armed to hunt the creature were charged with hunting violations. Western Illinois University researchers later concluded that only three first-hand reports existed, amplified by media into an apparent 'epidemic'. Proposed mundane explanations include an escaped kangaroo (rejected by McDaniel), a wild ape, large dogs, bears, deer, and wildcats."
     },
     "etymology": {
-      "origin": "American (Illinois), 1973",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Named after Enfield, a small village in White County, Illinois, USA, where the 1973 sightings occurred.",
+      "meaning": "'Enfield Horror' / 'Enfield Monster' is descriptive English coined by local and national press during the 1973 reports.",
+      "first_use": "Local Illinois press coverage of April–May 1973."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "reports or known animal misidentifications. Some researchers have classified it alongside other \\\"high strangeness\\\" entities like the Flatwoods Monster or Hopkinsville Goblins.",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Humanoid cryptid",
+      "subtype": "Three-legged 'high-strangeness' entity",
+      "variant": "Single-cluster Midwestern US case (1973)"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "flatwoods-monster", "name": "Flatwoods Monster", "relationship": "similar", "description": "1952 West Virginia 'high-strangeness' humanoid cryptid often grouped with Enfield by researchers." },
+      { "id": "hopkinsville-goblins", "name": "Hopkinsville Goblins", "relationship": "similar", "description": "1955 Kentucky home-invasion entity case often grouped with Enfield." },
+      { "id": "mothman", "name": "Mothman", "relationship": "related", "description": "Adjacent 1960s–70s Midwestern cryptid wave." }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "height": { "min": 1.4, "max": 1.5, "unit": "meters", "confidence": "low" },
+      "coloration": ["gray", "pink eyes"],
+      "features": [
+        { "feature": "Three legs", "description": "Witness Henry McDaniel reported the creature had three legs.", "frequency": "always" },
+        { "feature": "Two short arms", "description": "Two small, short arms set on a short body.", "frequency": "always" },
+        { "feature": "Pink eyes 'as big as flashlights'", "description": "Large, prominent pink eyes were a distinctive part of the witness description.", "frequency": "always" },
+        { "feature": "Gray coloration", "description": "Overall gray-coloured body.", "frequency": "always" },
+        { "feature": "Hissing vocalization", "description": "Made a hiss compared by McDaniel to a wildcat's call.", "frequency": "common" }
+      ],
+      "morphology": "Reported as a small, gray humanoid with a short body, two short arms, three legs, and large pink eyes; locomotion involved long bounding leaps."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Long-range bounding leaps", "description": "McDaniel reported the creature covered approximately fifty feet in three jumps as it fled toward a railway embankment.", "frequency": "always", "evidence_level": "reported" },
+      { "ability": "Resistance to gunfire", "description": "McDaniel fired four shots; the creature appeared unharmed and fled.", "frequency": "always", "evidence_level": "reported" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "defensive",
+      "social_structure": "solitary",
+      "habitat_preference": ["small-town residential yards", "railroad embankments and trestles", "abandoned buildings"],
+      "patterns": [
+        "Reported only at night during the April–May 1973 cluster",
+        "Active in residential and rail-adjacent locations near Enfield",
+        "Fled rapidly when confronted"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "American (Illinois), 1973",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Reports limited to a small area in and around Enfield, Illinois, during a six-week window in 1973; no documented reports outside this geographic and temporal cluster.",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["White County, Illinois", "southern Illinois"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Henry McDaniel residence, Enfield",
+        "location": {
+          "description": "Henry McDaniel's home and adjacent yard in the village of Enfield, Illinois",
+          "country": "United States",
+          "region": "White County, Illinois"
+        },
+        "sighting_count": 2,
+        "peak_period": "April–May 1973",
+        "notes": "Site of McDaniel's two reported encounters (25 April 1973 and 6 May 1973)."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
+        "date": "1973-04-25",
+        "circa": false,
+        "source": "Henry McDaniel's encounter, reported to White County police and local Illinois press"
+      },
+      "peak_activity_periods": [
+        { "period": "April 25 – May 6, 1973", "description": "Entire reported sighting cluster of the Enfield Horror" }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "American (Illinois), 1973",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Single Midwestern American sighting cluster, occurring during a peak period of high-strangeness cryptid reports in the United States.",
+      "earliest_accounts": "Henry McDaniel's police report and local Illinois press coverage from April 25, 1973 onward.",
+      "folklore_connections": "Often grouped with the Flatwoods Monster (1952), Hopkinsville Goblins (1955), and Mothman (1966–67) as 'high-strangeness' humanoid cryptid cases of the mid-20th-century United States."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1973-04-25", "event": "Henry McDaniel reports an encounter with the creature at his home in Enfield, Illinois, around 10 PM, firing four shots at it", "significance": "Founding incident of the case", "source": "White County police records / Wikipedia: Enfield Monster" },
+      { "date": "1973-04-25", "event": "Earlier the same evening (~9:30 PM), 10-year-old Greg Garrett reports an encounter; later admits to Western Illinois University researchers it was a hoax", "significance": "First retraction in the case", "source": "Wikipedia: Enfield Monster" },
+      { "date": "1973-05-06", "event": "McDaniel reports a second encounter near a railroad trestle around 3 AM; a search party led by WWKI news director Rick Rainbow reports seeing and recording an apelike creature in an abandoned building", "significance": "Second principal incident", "source": "Wikipedia: Enfield Monster" },
+      { "date": "1973-05-06", "event": "Five young out-of-town men arrive in Enfield armed with rifles and shotguns; the White County sheriff describes them as 'out drinking and raising hell' and they are charged with hunting violations", "significance": "Demonstrates the public-order impact of the reports", "source": "Wikipedia: Enfield Monster" },
+      { "date": "1978-01-01", "event": "Western Illinois University researchers publish an analysis concluding that only three firsthand reports exist, amplified into an apparent 'epidemic' by media coverage", "significance": "Standard sociological reading of the case", "source": "Western Illinois University (1978)" }
+    ],
+    "modern_era": "The Enfield Horror is a recurring entry in cryptid encyclopedias, podcasts (e.g. Astonishing Legends episode 232, 2022), and regional Illinois lore. There have been no significant new reports since the original 1973 cluster."
   },
+
   "sightings": {
     "statistics": {
-      "total_documented": 0,
+      "total_documented": 3,
       "verified": 0,
-      "disputed": 0,
-      "debunked": 0
+      "disputed": 2,
+      "debunked": 1,
+      "date_range": { "earliest": "1973-04-25", "latest": "1973-05-06" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "enfield-horror-sighting-1973-mcdaniel-1",
+        "name": "Henry McDaniel first encounter",
+        "date": { "value": "1973-04-25", "precision": "exact" },
+        "location": {
+          "description": "Henry McDaniel's home, Enfield, Illinois",
+          "country": "United States",
+          "region": "Illinois",
+          "locality": "Enfield (White County)"
+        },
+        "witnesses": { "count": 1, "types": ["Henry McDaniel (resident)"], "credibility_factors": ["Police described him as rational and sober", "Reported physical scratching at his door"] },
+        "description": "About 10 PM, McDaniel heard scratching at his front door, took a flashlight and pistol outside, and saw a creature between two rosebushes: about four and a half feet tall, gray, with three legs, two short arms, and pink eyes. The creature hissed at him; he fired four shots at it; it bounded away in long leaps and was lost from sight near the railroad.",
+        "conditions": { "weather": "Dry, clear", "visibility": "Night, with flashlight", "time_of_day": "~10:00 PM", "duration": "Brief" },
+        "evidence": ["Witness testimony", "Local police investigation", "Dog-like footprints with six toe pads found in nearby soft earth"],
+        "credibility": { "rating": "low", "factors": ["Single witness", "Sheriff publicly hostile to ongoing claims", "No physical specimen"], "notes": "The founding incident of the Enfield Horror case." },
+        "sources": ["Wikipedia: Enfield Monster"],
+        "featured": true
+      },
+      {
+        "id": "enfield-horror-sighting-1973-garrett",
+        "name": "Greg Garrett encounter (later admitted hoax)",
+        "date": { "value": "1973-04-25", "precision": "exact" },
+        "location": {
+          "description": "Garrett family yard, Enfield, Illinois",
+          "country": "United States",
+          "region": "Illinois",
+          "locality": "Enfield (White County)"
+        },
+        "witnesses": { "count": 1, "types": ["Greg Garrett (10-year-old child)"], "credibility_factors": ["Later self-retracted"] },
+        "description": "Greg Garrett, a 10-year-old neighbour of McDaniel, reported earlier the same evening that the creature stepped on his feet and tore his tennis shoes to shreds. He later told Western Illinois University researchers that the report was a hoax meant 'to tease Mr. M and have fun with an out of town newsman'.",
+        "credibility": { "rating": "low", "factors": ["Self-retracted as a hoax"], "notes": "Important counter-data point in the case." },
+        "sources": ["Wikipedia: Enfield Monster"],
+        "featured": true
+      },
+      {
+        "id": "enfield-horror-sighting-1973-mcdaniel-2",
+        "name": "McDaniel second encounter and WWKI search-party report",
+        "date": { "value": "1973-05-06", "precision": "exact" },
+        "location": {
+          "description": "Railroad trestles near Enfield, Illinois, and a nearby abandoned building",
+          "country": "United States",
+          "region": "Illinois",
+          "locality": "Enfield (White County)"
+        },
+        "witnesses": { "count": 2, "types": ["Henry McDaniel", "Rick Rainbow (WWKI news director) and party"], "credibility_factors": ["Multiple witnesses in the search-party episode", "Audio recording reportedly made"] },
+        "description": "Around 3 AM McDaniel called WWKI radio reporting another sighting near railroad trestles. A search party led by WWKI news director Rick Rainbow later reported observing and recording an 'apelike' creature in an abandoned building.",
+        "conditions": { "time_of_day": "~3:00 AM" },
+        "evidence": ["Witness testimony", "Reported audio recording (subsequently not independently verified)"],
+        "credibility": { "rating": "low", "factors": ["Recording not independently authenticated", "Likely media-driven amplification"], "notes": "Final substantive incident in the case." },
+        "sources": ["Wikipedia: Enfield Monster"],
+        "featured": true
+      }
+    ],
     "database_path": "./sightings/"
   },
+
   "evidence": {
-    "physical": [],
+    "physical": [
+      {
+        "id": "enfield-horror-evidence-tracks",
+        "type": "footprints",
+        "name": "Dog-like footprints with six toe pads",
+        "date": "1973-04-25",
+        "description": "Police investigators found dog-like footprints with six toe pads in soft earth near McDaniel's home.",
+        "status": "disputed",
+        "analysis": "No casts or photographs are widely cited in the secondary literature; the prints are described in police summaries.",
+        "source": "Wikipedia: Enfield Monster"
+      }
+    ],
     "photographic": [],
     "video": [],
-    "audio": [],
-    "trace": []
+    "audio": [
+      {
+        "id": "enfield-horror-evidence-wwki-recording",
+        "type": "audio recording",
+        "name": "WWKI search-party recording",
+        "date": "1973-05-06",
+        "description": "Audio recording reportedly made by a search party led by WWKI news director Rick Rainbow at an abandoned building near the railroad.",
+        "status": "unverified",
+        "analysis": "Cited in contemporary news coverage; not independently authenticated in the available secondary literature.",
+        "source": "WWKI / Wikipedia: Enfield Monster"
+      }
+    ],
+    "trace": [],
+    "documentary": [
+      {
+        "id": "enfield-horror-evidence-wiu-1978",
+        "type": "research analysis",
+        "name": "Western Illinois University analysis",
+        "date": "1978",
+        "description": "Sociological analysis from Western Illinois University concluding that only three firsthand reports exist and that the case was amplified by media coverage and local gossip.",
+        "status": "verified",
+        "analysis": "Standard skeptical / sociological reading of the Enfield Horror case.",
+        "source": "Western Illinois University (1978) / Wikipedia: Enfield Monster"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "High-strangeness cryptid",
+        "description": "Treats the Enfield Horror as a real but anomalous biological or paranormal entity, grouped with the Flatwoods Monster, Hopkinsville Goblins, and other 1950s–70s 'high-strangeness' humanoid cryptids.",
+        "proponents": ["Cryptozoological commentators", "Astonishing Legends and similar paranormal podcasts"],
+        "evidence_cited": ["Distinctive non-standard morphology", "Witness consistency in McDaniel's accounts"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Escaped kangaroo or wallaby",
+        "description": "Some contemporary reporters proposed an escaped kangaroo from a private collection or zoo, given reports of bounding locomotion.",
+        "proponents": ["Contemporary press"],
+        "evidence_cited": ["Bounding leaps", "Approximate height"]
+      },
+      {
+        "name": "Wild ape or large primate",
+        "description": "An anthropology student suggested an ape, citing parallel reports of similar creatures in Mississippi since 1941.",
+        "proponents": ["Local academic commentators"],
+        "evidence_cited": ["Hissing vocalization", "Reported 'apelike' figure in WWKI search-party episode"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Misidentification + media amplification",
+        "description": "A small number of misidentifications of large dogs, bears, deer, or wildcats was amplified by sensational media coverage and local gossip into an apparent 'epidemic' of monster reports.",
+        "proponents": ["Western Illinois University researchers (1978)", "Skeptical commentators"],
+        "evidence_cited": ["WIU finding of only three firsthand reports", "Garrett's admitted hoax", "Sheriff Poshard's hostile public stance"]
+      },
+      {
+        "name": "Collective behavior / mass-panic episode",
+        "description": "The case is cited by sociologists as an example of collective behavior in which an isolated incident generates wider 'panic, hysteria, collective vision, and extreme suggestibility' under media pressure.",
+        "proponents": ["Sociologists of collective behavior"],
+        "evidence_cited": ["Influx of armed out-of-town hunters", "Sheriff's threats of arrest", "WIU sociological analysis"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Mid-20th-century American 'high-strangeness' cryptid lore"
+      ],
+      "stories": [
+        "Henry McDaniel's account of firing four shots at a three-legged creature in his yard",
+        "Greg Garrett's later-retracted account of having his shoes torn by the creature",
+        "The WWKI search-party 'apelike' encounter at the abandoned building"
+      ],
+      "beliefs": "The case is preserved largely in local Illinois lore and cryptid-enthusiast media."
     },
     "popular_culture": {
-      "literature": [],
+      "literature": [
+        "Coverage in cryptozoology encyclopedias and regional Illinois lore books"
+      ],
       "film_tv": [],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Astonishing Legends podcast, Episode 232: 'The Enfield Horror and Other Midwest Monsters' (2022)"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Henry McDaniel", "affiliation": "Resident witness, Enfield, Illinois", "contribution": "Principal witness in the 1973 case", "period": "1973" },
+      { "name": "Rick Rainbow", "affiliation": "WWKI news director", "contribution": "Led the May 6, 1973 search-party episode and reported audio recording", "period": "1973" },
+      { "name": "Western Illinois University researchers", "affiliation": "Western Illinois University", "contribution": "1978 sociological analysis treating the case as a media-amplified collective-behavior episode", "period": "1973–1978" },
+      { "name": "Loren Coleman", "affiliation": "International Cryptozoology Museum", "contribution": "Documentation of the Enfield Horror within standard cryptozoological reference works", "period": "1970s–present" }
+    ],
+    "organizations": [
+      { "name": "International Cryptozoology Museum", "url": "https://cryptozoologymuseum.com", "focus": "Cryptozoological curation including 1970s American humanoid cryptid cases" }
+    ],
+    "ongoing_studies": "No active scientific or cryptozoological field investigation of the Enfield Horror is currently documented; the case is treated historically rather than as an ongoing phenomenon."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-enfield-monster",
+      "type": "website",
+      "title": "Enfield Monster",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enfield_Monster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "astonishing-legends-232",
+      "type": "other",
+      "title": "Ep 232: The Enfield Horror and Other Midwest Monsters",
+      "publication": "Astonishing Legends podcast",
+      "date": "2022-04-23",
+      "url": "https://astonishinglegends.com/al-podcasts/2022/4/23/ep-232-the-enfield-horror-and-other-midwest-monsters",
+      "accessed": "2026-05-07"
+    }
+  ]
 }

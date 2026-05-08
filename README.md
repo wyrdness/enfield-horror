@@ -1,271 +1,223 @@
 # Enfield Horror
 
+> An unidentified creature reported in and around Enfield, Illinois during a brief sighting cluster in late April and early May 1973, described as a roughly four-and-a-half-foot-tall, gray, three-legged entity with two short arms and pink eyes.
+
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-3-orange)]() ![Status](https://img.shields.io/badge/status-historical-blue)
+
+---
+## Quick Reference
+
+| Property | Value |
+|---|---|
+| **ID** | `enfield-horror` |
+| **Category** | CRYPTID |
+| **Subcategory** | Three-legged humanoid cryptid |
+| **First recorded** | 1973-04-25 |
+| **Primary range** | Reports limited to a small area in and around Enfield, Illinois, during a six-week window in 1973 |
+| **Status** | historical |
+
+---
 ## Overview
 
-The **Enfield Horror** is a cryptid creature reported from Enfield, Illinois, during a concentrated series of sightings in April and May 1973. Described as a bizarre three-legged entity with short, gray, slimy skin, pink eyes, and no visible arms, the Enfield Horror represents one of the most unusual cryptid descriptions in American cryptozoology. Standing approximately 4 to 5 feet tall, the creature terrorized residents of this small southern Illinois town through direct encounters, property disturbances, and its distinctly alien appearance.
+The Enfield Horror (also Enfield Monster) is an unidentified creature reported in Enfield, Illinois, in April and May 1973. The principal witness, Henry McDaniel, reported being scratched at and confronted by an entity at his home about 10 PM on April 25, 1973: he described a creature about four and a half feet tall, gray-coloured, with three legs, a short body, two short arms, and pink eyes 'as big as flashlights'. McDaniel fired four shots at the creature with a pistol; it hissed (compared to a wildcat) and fled across the yard in long bounding leaps. A reported earlier encounter the same night by 10-year-old Greg Garrett was later admitted by the boy to Western Illinois University researchers to have been a hoax. McDaniel reported a second encounter near the railroad on May 6, 1973, and a search party led by WWKI radio's Rick Rainbow reported seeing and recording a similar 'apelike' creature in an abandoned building. Police investigators noted dog-like footprints with six toe pads in the soft earth and described McDaniel as rational and sober. White County Sheriff Roy Poshard Jr. publicly threatened to arrest McDaniel for continuing to discuss the creature. Five out-of-town men who arrived armed to hunt the creature were charged with hunting violations. Western Illinois University researchers later concluded that only three first-hand reports existed, amplified by media into an apparent 'epidemic'. Proposed mundane explanations include an escaped kangaroo (rejected by McDaniel), a wild ape, large dogs, bears, deer, and wildcats.
 
-The primary incidents occurred at the home of Henry McDaniel on April 25, 1973, when he encountered the creature multiple times in one evening. McDaniel, a respected member of the community, reported shooting at the entity with a pistol before it fled with unusual three-legged hopping movements. The subsequent investigation by local police and the wave of copycat sightings that followed made the Enfield Horror a significant event in 1970s American cryptozoology.
+---
+## Names & Aliases
 
-What distinguishes the Enfield Horror from other cryptids is its utterly non-standard appearance: three legs, no arms, grayish slimy skin, and bizarre locomotion create a creature unlike typical Bigfoot-type reports or known animal misidentifications. Some researchers have classified it alongside other "high strangeness" entities like the Flatwoods Monster or Hopkinsville Goblins.
+| Name | Origin | Meaning |
+|---|---|---|
+| Enfield Monster | Illinois, USA |  |
 
-## Names and Etymology
+## Etymology
 
-- **Enfield Horror**: Primary name, referencing Enfield, Illinois
-- **The McDaniel Creature**: Named after primary witness Henry McDaniel
-- **Three-Legged Thing**: Descriptive colloquial name
-- **Illinois Monster**: General regional reference
-- **Enfield Entity**: Alternative neutral terminology
+- **Origin**: Named after Enfield, a small village in White County, Illinois, USA, where the 1973 sightings occurred.
+- **Meaning**: 'Enfield Horror' / 'Enfield Monster' is descriptive English coined by local and national press during the 1973 reports.
+- **First use**: Local Illinois press coverage of April–May 1973.
 
+---
+## Related Phenomena
+
+- [Flatwoods Monster](../flatwoods-monster/) — _similar_: 1952 West Virginia 'high-strangeness' humanoid cryptid often grouped with Enfield by researchers.
+- [Hopkinsville Goblins](../hopkinsville-goblins/) — _similar_: 1955 Kentucky home-invasion entity case often grouped with Enfield.
+- [Mothman](../mothman/) — _related_: Adjacent 1960s–70s Midwestern cryptid wave.
+
+---
 ## Physical Description
 
-### General Appearance
-- **Height**: 4 to 5 feet tall
-- **Build**: Stocky, compact body structure
-- **Skin**: Gray and slimy or wet-appearing
-- **Legs**: Three legs (most distinctive feature)
-- **Arms**: No visible arms or upper limbs
-- **Color**: Gray or grayish-pink
+- **Height**: 1.4–1.5 meters _(low confidence)_
+- **Coloration**: gray, pink eyes
+- **Morphology**: Reported as a small, gray humanoid with a short body, two short arms, three legs, and large pink eyes; locomotion involved long bounding leaps.
 
-### Distinctive Features
-- **Three Legs**: Arranged in tripod formation; moved by hopping
-- **Eyes**: Large, pink or reddish eyes
-- **Skin Texture**: Described as slimy, wet, or greasy-looking
-- **Size**: Smaller than typical humanoid cryptids
-- **Movement**: Hopping or bounding gait using three legs
-- **Sound**: Hissing or screeching vocalizations reported
+### Features
 
-### Unusual Characteristics
-- **No Arms**: Complete absence of visible upper limbs
-- **Leg Configuration**: Tripedal stance unlike any known animal
-- **Odor**: Some reports mention foul smell (not universally reported)
-- **Agility**: Despite odd configuration, moved rapidly
-- **Appearance**: Described as "not of this world" by witnesses
+| Feature | Description | Frequency |
+|---|---|---|
+| Three legs | Witness Henry McDaniel reported the creature had three legs. | always |
+| Two short arms | Two small, short arms set on a short body. | always |
+| Pink eyes 'as big as flashlights' | Large, prominent pink eyes were a distinctive part of the witness description. | always |
+| Gray coloration | Overall gray-coloured body. | always |
+| Hissing vocalization | Made a hiss compared by McDaniel to a wildcat's call. | common |
 
-## The Primary Incident: April 25, 1973
+## Reported Abilities
 
-### Henry McDaniel's First Encounter
-- **Date**: April 25, 1973, approximately 9:30 PM
-- **Location**: McDaniel residence, 200 block of West 6th Street, Enfield, Illinois
-- **Witness**: Henry McDaniel (age 50s), lifetime Enfield resident
-- **Initial Contact**: Scratching sounds at front door
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Long-range bounding leaps | McDaniel reported the creature covered approximately fifty feet in three jumps as it fled toward a railway embankment. | always | reported |
+| Resistance to gunfire | McDaniel fired four shots; the creature appeared unharmed and fled. | always | reported |
 
-**The Encounter**
-- McDaniel heard scratching at his door
-- When he opened door, saw three-legged creature on porch
-- Creature approximately 5 feet tall with grayish, slimy skin
-- Large pink eyes stared at McDaniel
-- No visible arms or upper limbs
-- Three legs in apparent tripod configuration
+## Behavior
 
-**McDaniel's Response**
-- Slammed door and retrieved pistol
-- Reopened door and fired four shots at creature
-- Creature emitted loud hiss or screech
-- Entity bounded away with unusual three-legged hopping motion
-- McDaniel pursued briefly but creature disappeared into darkness
+- **Activity**: nocturnal
+- **Disposition**: defensive
+- **Social structure**: solitary
+- **Habitat**: small-town residential yards, railroad embankments and trestles, abandoned buildings
 
-### Second Encounter (Same Night)
-- **Time**: Approximately 30 minutes after first incident
-- **Location**: Railroad tracks near McDaniel property
-- Creature returned, spotted near tracks
-- McDaniel again fired at it
-- Creature fled toward nearby brush and abandoned house
-- Witnesses reported seeing it hop over fence with remarkable agility
+---
+## Distribution
 
-### Police Investigation
-- Enfield Police Chief arrived to investigate
-- McDaniel gave detailed statement
-- Police found scratches on door siding
-- Unusual footprints discovered in soft dirt
-- Tracks showed peculiar three-toed configuration
-- No blood or physical evidence despite gunfire
-- Officers noted McDaniel appeared genuinely frightened and sober
+Reports limited to a small area in and around Enfield, Illinois, during a six-week window in 1973; no documented reports outside this geographic and temporal cluster.
 
-## Additional Sightings and Reports
+### Hotspots
 
-### April-May 1973 Wave
-- **April 26**: Additional residents reported seeing creature near railroad tracks
-- **April 27**: Multiple teenagers claimed sighting in wooded area
-- **May 6**: Rick Rainbow (age 18) reported similar creature on rural road
-- **May 8**: Local radio station received multiple calls about sightings
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Henry McDaniel residence, Enfield | White County, Illinois, United States | 2 | April–May 1973 |
 
-### Rick Rainbow Encounter (May 6, 1973)
-- Rainbow and companions traveling on rural road outside Enfield
-- Saw three-legged, gray creature cross road ahead
-- Creature moved with hopping gait similar to McDaniel's description
-- Brief sighting, creature disappeared into field
-- Multiple witnesses corroborated account
+---
+## Historical Timeline
 
-### Copycat Reports and Hysteria
-- Following media coverage, numerous additional claims emerged
-- Some likely genuine misidentifications
-- Others probable hoaxes capitalizing on publicity
-- Local teenagers conducted "monster hunts"
-- Out-of-town curiosity seekers visited Enfield
-- By late May, sightings tapered off significantly
+| Date | Event | Significance |
+|---|---|---|
+| 1973-04-25 | Henry McDaniel reports an encounter with the creature at his home in Enfield, Illinois, around 10 PM, firing four shots at it | Founding incident of the case |
+| 1973-04-25 | Earlier the same evening (~9:30 PM), 10-year-old Greg Garrett reports an encounter; later admits to Western Illinois University researchers it was a hoax | First retraction in the case |
+| 1973-05-06 | McDaniel reports a second encounter near a railroad trestle around 3 AM; a search party led by WWKI news director Rick Rainbow reports seeing and recording an apelike creature in an abandoned building | Second principal incident |
+| 1973-05-06 | Five young out-of-town men arrive in Enfield armed with rifles and shotguns; the White County sheriff describes them as 'out drinking and raising hell' and they are charged with hunting violations | Demonstrates the public-order impact of the reports |
+| 1978-01-01 | Western Illinois University researchers publish an analysis concluding that only three firsthand reports exist, amplified into an apparent 'epidemic' by media coverage | Standard sociological reading of the case |
 
-## Explanations and Theories
+---
+## Notable Sightings
 
-### Cryptozoological Hypotheses
-**Unknown Entity**
-- Creature represents unknown life form, possibly extraterrestrial
-- Three-legged configuration suggests non-terrestrial origin
-- Appearance doesn't match any known evolutionary lineage
-- Similarity to "high strangeness" entities like Hopkinsville Goblins
-
-**Genetic Mutation**
-- Deformed animal, possibly due to pollution or genetic defect
-- Three legs could result from birth defect
-- However, no known animal matches other aspects of description
-- Tripedal mutation in known species would likely be less functional
-
-### Misidentification Theories
-**Known Animals**
-- **Kangaroo**: Escaped exotic pet moving on hind legs
-  - Southern Illinois had exotic animal escapes in era
-  - Hopping motion matches kangaroo behavior
-  - However, kangaroos have visible arms/forepaws
-  - Eyes and skin description don't match
-  
-- **Large Dog or Coyote**: Standing on hind legs
-  - Could explain size and gray coloration
-  - Movement pattern doesn't match canine behavior
-  - Three legs difficult to explain
-  
-- **Injured Bear**: Standing bear with injured limb
-  - Bears can stand bipedally
-  - Injured leg might create odd gait
-  - Skin texture and eyes don't match bear
-  - Three distinct legs difficult to explain through injury
-
-### Environmental and Perceptual Factors
-- **Poor Lighting**: Nighttime encounters limit accurate observation
-- **Fear Response**: Adrenaline affects perception and memory
-- **Misinterpretation**: Shadows and angles create optical illusions
-- **Cultural Contamination**: Later witnesses influenced by initial reports
-
-### Hoax Theories
-**Deliberate Fabrication**
-- Some skeptics suggest elaborate hoax
-- However, McDaniel had no apparent motive
-- Physical evidence (scratches, tracks) found by police
-- Multiple independent witnesses reported similar descriptions
-- McDaniel maintained story until his death
-
-**Costume or Prank**
-- Possibility someone in costume to frighten McDaniel
-- Three-legged effect could be created with stilts or costume
-- However, movement pattern difficult to fake convincingly
-- Rapid hopping escape seems beyond hoaxer capability
-
-### Paranormal and Extraterrestrial Theories
-**UFO Connection**
-- Some researchers link to UFO activity in region during 1973
-- Year 1973 had numerous UFO reports across United States
-- "Enfield Horror" appearance suggests non-terrestrial origin
-- However, no direct UFO sightings connected to creature encounters
-
-**Interdimensional Entity**
-- Fringe theory suggests creature from another dimension
-- Temporary manifestation explaining lack of physical evidence
-- Appearance inconsistent with earthly biology
-- No scientific framework supports such theories
-
-## Physical Evidence
-
-### Tracks and Prints
-- Police found unusual three-toed tracks near McDaniel property
-- Prints showed tripod-like configuration
-- Approximately 6 inches long
-- No clear digital patterns (like mammalian pads)
-- Photographs taken but quality limited by 1970s technology
-
-### Property Damage
-- Scratches on McDaniel's door siding documented
-- Consistent with claw or sharp appendage marks
-- Height of scratches matched witness description
-- No DNA or organic material recovered
-
-### Lack of Physical Remains
-- No blood found despite multiple gunshots
-- No hair, tissue, or biological samples recovered
-- No body ever discovered
-- Absence of remains raises questions about nature of entity
-
-## Cultural Impact
-
-### Media Coverage
-- **Local Press**: Extensive coverage in *White County News* and regional papers
-- **National Attention**: Story picked up by wire services
-- **Cryptozoology Publications**: Featured in *Fate Magazine* and similar outlets
-- **Books**: Included in numerous cryptozoology encyclopedias
-
-### Impact on Enfield Community
-- Brief period of notoriety for small town
-- Mixed feelings among residents: pride vs. ridicule
-- Tourist curiosity provided minor economic boost
-- Eventually became part of local folklore
-
-### Cryptozoology Significance
-- Represents "high strangeness" category of cryptids
-- Challenges standard cryptozoological classification
-- Cited in discussions of possible extraterrestrial entities
-- Example of non-Bigfoot cryptid diversity
-
-## Comparative Cryptozoology
-
-### Similar "High Strangeness" Entities
-- **Flatwoods Monster** (1952, West Virginia): Non-standard appearance, brief encounter
-- **Hopkinsville Goblins** (1955, Kentucky): Small humanoids, bizarre features, aggressive
-- **Dover Demon** (1977, Massachusetts): Unusual appearance, brief sightings
-- **Fresno Nightcrawlers** (California): Unusual leg configuration, atypical cryptid
-
-### Three-Legged Creatures in Folklore
-- Three-legged creatures appear in various world mythologies
-- Celtic mythology features three-legged beings
-- Unique in modern American cryptozoology
-- Challenges biological plausibility
-
-## Modern Perspectives
-
-### Contemporary Investigation
-- Case remains cold; no new evidence since 1970s
-- Enfield Horror occasionally featured in cryptid documentaries
-- Researchers occasionally visit site for historical investigation
-- Original witnesses (deceased) left recorded testimonies
-
-### Skeptical Analysis
-- Most skeptics favor misidentified animal explanation
-- Lack of physical evidence problematic for cryptid hypothesis
-- Brief wave of sightings suggests hysteria or hoax elements
-- McDaniel's credibility makes dismissal difficult
-
-### Cultural Legacy
-- Enfield Horror remains cult favorite in cryptozoology
-- Example of 1970s "monster panic" phenomenon
-- Illustrates challenges of cryptozoology: single-witness events, no physical evidence
-- Contributes to Illinois folklore
-
-## Related Phenomena
-- [Flatwoods Monster](../flatwoods-monster/README.md) - Similar "high strangeness" entity
-- [Hopkinsville Goblins](../hopkinsville-goblins/README.md) - Kentucky humanoid encounter
-- [Dover Demon](../dover-demon/README.md) - Massachusetts cryptid
-- [Loveland Frog](../loveland-frog/README.md) - Ohio unusual cryptid
-- [Fresno Nightcrawlers](../fresno-nightcrawlers/README.md) - Unusual leg configuration
-
-## See Also
-- [Cryptozoology](../cryptozoology/README.md)
-- [UFO Encounters](related topics)
-- [High Strangeness Phenomena](related topics)
-- [1970s Cryptid Wave](related topics)
+### Henry McDaniel first encounter ⭐
+> **Date**: 1973-04-25  
+> **Location**: Henry McDaniel's home, Enfield, Illinois  
+> **Witnesses**: 1 (Henry McDaniel (resident))  
+> **Evidence**: Witness testimony; Local police investigation; Dog-like footprints with six toe pads found in nearby soft earth  
+About 10 PM, McDaniel heard scratching at his front door, took a flashlight and pistol outside, and saw a creature between two rosebushes: about four and a half feet tall, gray, with three legs, two short arms, and pink eyes. The creature hissed at him; he fired four shots at it; it bounded away in long leaps and was lost from sight near the railroad.
+**Credibility**: low — The founding incident of the Enfield Horror case.
+**Sources**: Wikipedia: Enfield Monster
 
 ---
 
-**Version**: 1.0.0  
-**Last Updated**: 2026-01-14  
-**Category**: CRYPTID  
-**Status**: Unverified  
-**Cultural Origin**: American (Illinois), 1973  
-**Classification**: High Strangeness Entity
+### Greg Garrett encounter (later admitted hoax) ⭐
+> **Date**: 1973-04-25  
+> **Location**: Garrett family yard, Enfield, Illinois  
+> **Witnesses**: 1 (Greg Garrett (10-year-old child))  
+Greg Garrett, a 10-year-old neighbour of McDaniel, reported earlier the same evening that the creature stepped on his feet and tore his tennis shoes to shreds. He later told Western Illinois University researchers that the report was a hoax meant 'to tease Mr. M and have fun with an out of town newsman'.
+**Credibility**: low — Important counter-data point in the case.
+**Sources**: Wikipedia: Enfield Monster
 
-*The Enfield Horror remains one of cryptozoology's most perplexing cases: a creature whose description defies conventional zoological explanation, witnessed by credible observers, yet leaving minimal physical evidence. Whether misidentified animal, hoax, extraterrestrial visitor, or something genuinely unknown, the three-legged horror that terrorized Enfield, Illinois in spring 1973 continues to fascinate and perplex researchers five decades later.*
+---
+
+### McDaniel second encounter and WWKI search-party report ⭐
+> **Date**: 1973-05-06  
+> **Location**: Railroad trestles near Enfield, Illinois, and a nearby abandoned building  
+> **Witnesses**: 2 (Henry McDaniel, Rick Rainbow (WWKI news director) and party)  
+> **Evidence**: Witness testimony; Reported audio recording (subsequently not independently verified)  
+Around 3 AM McDaniel called WWKI radio reporting another sighting near railroad trestles. A search party led by WWKI news director Rick Rainbow later reported observing and recording an 'apelike' creature in an abandoned building.
+**Credibility**: low — Final substantive incident in the case.
+**Sources**: Wikipedia: Enfield Monster
+
+---
+
+
+## Evidence
+
+### Physical
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Dog-like footprints with six toe pads | 1973-04-25 | Police investigators found dog-like footprints with six toe pads in soft earth near McDaniel's home. | disputed |
+### Audio
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| WWKI search-party recording | 1973-05-06 | Audio recording reportedly made by a search party led by WWKI news director Rick Rainbow at an abandoned building near the railroad. | unverified |
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Western Illinois University analysis | 1978 | Sociological analysis from Western Illinois University concluding that only three firsthand reports exist and that the case was amplified by media coverage and local gossip. | verified |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**High-strangeness cryptid** _(Cryptozoological commentators, Astonishing Legends and similar paranormal podcasts)_
+
+Treats the Enfield Horror as a real but anomalous biological or paranormal entity, grouped with the Flatwoods Monster, Hopkinsville Goblins, and other 1950s–70s 'high-strangeness' humanoid cryptids.
+
+### Scientific
+
+**Escaped kangaroo or wallaby** _(Contemporary press)_
+
+Some contemporary reporters proposed an escaped kangaroo from a private collection or zoo, given reports of bounding locomotion.
+
+**Wild ape or large primate** _(Local academic commentators)_
+
+An anthropology student suggested an ape, citing parallel reports of similar creatures in Mississippi since 1941.
+
+### Skeptical
+
+**Misidentification + media amplification** _(Western Illinois University researchers (1978), Skeptical commentators)_
+
+A small number of misidentifications of large dogs, bears, deer, or wildcats was amplified by sensational media coverage and local gossip into an apparent 'epidemic' of monster reports.
+
+**Collective behavior / mass-panic episode** _(Sociologists of collective behavior)_
+
+The case is cited by sociologists as an example of collective behavior in which an isolated incident generates wider 'panic, hysteria, collective vision, and extreme suggestibility' under media pressure.
+
+
+## Popular Culture
+
+**Literature**: Coverage in cryptozoology encyclopedias and regional Illinois lore books
+
+**Other**: Astonishing Legends podcast, Episode 232: 'The Enfield Horror and Other Midwest Monsters' (2022)
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Henry McDaniel | Resident witness, Enfield, Illinois | Principal witness in the 1973 case | 1973 |
+| Rick Rainbow | WWKI news director | Led the May 6, 1973 search-party episode and reported audio recording | 1973 |
+| Western Illinois University researchers | Western Illinois University | 1978 sociological analysis treating the case as a media-amplified collective-behavior episode | 1973–1978 |
+| Loren Coleman | International Cryptozoology Museum | Documentation of the Enfield Horror within standard cryptozoological reference works | 1970s–present |
+
+### Organizations
+
+- [International Cryptozoology Museum](https://cryptozoologymuseum.com) — Cryptozoological curation including 1970s American humanoid cryptid cases
+
+No active scientific or cryptozoological field investigation of the Enfield Horror is currently documented; the case is treated historically rather than as an ongoing phenomenon.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
